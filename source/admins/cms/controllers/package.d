@@ -1,0 +1,2 @@
+module admins.cms.controllers;
+
